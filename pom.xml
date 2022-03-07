@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>safeway release 0.1</finalName>
+    <finalName>safeway</finalName>
   </build>
 </project>
